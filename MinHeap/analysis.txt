@@ -1,0 +1,24 @@
+Place your empirical analysis here.
+
+It is clear the ordered array is slower than the binary heap for small n. As the n increases beyond this, the ordered array becomes slower as compared to binary heap, Like for example take n as 1000, we have running time for Ordered array as 7.112413ms while for binary heap it is less than half i.e. 3.290098ms.
+Now as we keep increasing the value of n, we see that the time taken by our Ordered array keeps on increasing with a great rate as compared with the rate of increase in running time of binary heap. This support the Big O, Asymtotic ruuning time of an algorithm, for Ordered array as O(N) and for Binary heap as O(Log N).
+
+So we can conclude, Big O of Ordered Array(O(N)) > Big O of Binary Heap(O(Log N)).
+
+
+Result of running PQExperiment.java with various range of input:
+
+Input			Running time for Ordered array                Running time for Binary heap
+_______________________________________________________________________________________________________________
+
+10			0.750699ms			              0.634538ms					
+
+100			1.780736ms				      1.666551ms
+
+1000			7.112413ms				      3.290098ms
+
+10000			58.113094ms				      13.998823ms
+
+100000			4775.744224ms				      43.830185ms
+
+1000000			471768.244204ms				      226.019557ms

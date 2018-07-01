@@ -1,0 +1,17 @@
+isEmpty
+insert 8 student8
+insert 4 student4
+insert 12 studentX
+insert 6 student6
+insert 10 student10
+min
+insert 12 student12
+insert 2 student2
+max
+insert 16 student16
+insert 1 student1
+deleteMin
+deleteMin
+deleteMax
+isEmpty
+size

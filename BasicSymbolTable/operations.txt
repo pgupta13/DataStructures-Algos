@@ -1,0 +1,149 @@
+isEmpty
+put GMU 1  student1  30 0.90
+put GMU 2  student2  30 0.90
+put GMU 3  student3  30 0.90
+put GMU 4  student4  30 0.90
+put GMU 5  student5  30 0.90
+put GMU 6  student6  30 0.90
+put GMU 7  student7  30 0.90
+put GMU 8  student8  30 0.90
+put GMU 9  student9  30 0.90
+put GMU 10 student10 30 0.90
+put GMU 11 student11 30 0.90
+put GMU 12 student12 30 0.90
+put GMU 13 student13 30 0.90
+put GMU 14 student14 30 0.90
+put GMU 15 student15 30 0.90
+put GMU 16 student16 30 0.90
+put GMU 17 student17 30 0.90
+put GMU 18 student18 30 0.90
+put GMU 19 student19 30 0.90
+put GMU 20 student20 30 0.90
+put GMU 21 student21 30 0.90
+put GMU 22 student22 30 0.90
+put GMU 23 student23 30 0.90
+put GMU 24 student24 30 0.90
+put GMU 25 student25 30 0.90
+put GMU 26 student26 30 0.90
+put GMU 27 student27 30 0.90
+put GMU 28 student28 30 0.90
+put GMU 29 student29 30 0.90
+put GMU 30 student30 30 0.90
+put GMU 31 student31 30 0.90
+put GMU 32 student32 30 0.90
+put GMU 33 student33 30 0.90
+put GMU 34 student34 30 0.90
+put GMU 35 student35 30 0.90
+put GMU 36 student36 30 0.90
+put GMU 37 student37 30 0.90
+put GMU 38 student38 30 0.90
+put GMU 39 student39 30 0.90
+put GMU 40 student40 30 0.90
+put GMU 41 student41 30 0.90
+put GMU 42 student42 30 0.90
+put GMU 43 student43 30 0.90
+put GMU 44 student44 30 0.90
+put GMU 45 student45 30 0.90
+put GMU 46 student46 30 0.90
+put GMU 47 student47 30 0.90
+put GMU 48 student48 30 0.90
+put GMU 49 student49 30 0.90
+put GMU 50 student50 30 0.90
+put GMU 51 student51 30 0.90
+put GMU 52 student52 30 0.90
+put GMU 53 student53 30 0.90
+put GMU 54 student54 30 0.90
+put GMU 55 student55 30 0.90
+put GMU 56 student56 30 0.90
+put GMU 57 student57 30 0.90
+put GMU 58 student58 30 0.90
+put GMU 59 student59 30 0.90
+put GMU 60 student60 30 0.90
+put GMU 61 student61 30 0.90
+put GMU 62 student62 30 0.90
+put GMU 63 student63 30 0.90
+put GMU 64 student64 30 0.90
+put GMU 65 student65 30 0.90
+put GMU 66 student66 30 0.90
+put GMU 67 student67 30 0.90
+put GMU 68 student68 30 0.90
+put GMU 69 student69 30 0.90
+put GMU 70 student70 30 0.90
+put GMU 71 student71 30 0.90
+put GMU 72 student72 30 0.90
+put GMU 73 student73 30 0.90
+put GMU 74 student74 30 0.90
+put GMU 75 student75 30 0.90
+put GMU 76 student76 30 0.90
+put GMU 77 student77 30 0.90
+put GMU 78 student78 30 0.90
+put GMU 79 student79 30 0.90
+put GMU 80 student80 30 0.90
+size
+delete GMU 5
+delete GMU 10
+delete GMU 15
+delete GMU 20
+delete GMU 25
+size
+delete GMU 5
+delete GMU 10
+delete GMU 15
+delete GMU 20
+delete GMU 25
+size
+delete GMU 30
+delete GMU 35
+delete GMU 40
+size
+delete GMU 1
+delete GMU 2
+delete GMU 3
+delete GMU 4
+delete GMU 5
+delete GMU 6
+delete GMU 7
+delete GMU 8
+delete GMU 9
+delete GMU 10
+delete GMU 11
+delete GMU 12
+delete GMU 13
+delete GMU 14
+delete GMU 15
+delete GMU 16
+delete GMU 17
+delete GMU 18
+delete GMU 19
+delete GMU 20
+delete GMU 21
+delete GMU 22
+delete GMU 23
+delete GMU 24
+delete GMU 25
+delete GMU 26
+delete GMU 27
+delete GMU 28
+delete GMU 29
+delete GMU 30
+delete GMU 31
+delete GMU 32
+delete GMU 33
+delete GMU 34
+delete GMU 35
+delete GMU 36
+delete GMU 37
+delete GMU 38
+delete GMU 39
+delete GMU 40
+delete GMU 41
+delete GMU 42
+delete GMU 43
+delete GMU 44
+delete GMU 45
+delete GMU 46
+delete GMU 47
+delete GMU 48
+delete GMU 49
+delete GMU 50
+size

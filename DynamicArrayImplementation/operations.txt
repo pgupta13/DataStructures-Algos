@@ -1,0 +1,35 @@
+add student1
+add student2
+remove 0
+add student3
+add student4
+add student5
+add student6
+capacity
+add student7
+remove 0
+add student8
+add student9
+add student10
+add student11
+capacity
+remove 7
+remove 6
+remove 5
+remove 4
+remove 3
+capacity
+remove 2
+size
+capacity
+remove 0
+capacity
+remove 0
+remove 0
+size
+capacity
+add student12
+add student13
+add student14
+set 1 graduate13
+size

@@ -1,0 +1,10 @@
+put 10 student10
+put 15 student15
+put 20 student20
+put 6 student6
+put 2 student2
+put 18 student18
+put 19 student19
+put 4 student4
+put 3 student3
+size

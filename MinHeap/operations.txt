@@ -1,0 +1,28 @@
+insert 79
+insert 45
+insert -76
+insert 73
+insert 66
+insert -40
+insert 99
+insert 19
+insert 19
+insert 27
+size
+empty
+insert 94
+insert 24
+insert 89
+insert -52
+insert 28
+insert -2
+insert 80
+insert 70
+insert 99
+insert 66
+delMin
+delMin
+delMin
+min
+delMin
+size
